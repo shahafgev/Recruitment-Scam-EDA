@@ -1,6 +1,5 @@
-## Recruitment-Scam-EDA
-
-# Dataset description
+# Recruitment-Scam-EDA
+## Dataset description
 1. Title	- The title of the job ad entry
 2. Location - Geographical location of the job ad
 3. Department - Corporate department (e.g. sales)
