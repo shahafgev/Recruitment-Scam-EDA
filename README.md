@@ -20,7 +20,7 @@
 18. Function            - Consulting, Engineering, Research, Sales etc
 
 ##
-I conducted an Exploratory Data Analysis (EDA) on a Recruitment Scam dataset sourced from Kaggle (link). Initially, I examined general information about the dataset, including counts, duplicates, and unique values. Subsequently, I assessed the percentage of null values for each variable. I then proceeded to conduct a similar analysis, but this time, I stratified the dataset based on the explanatory variable, "fraudulent."
+I conducted an Exploratory Data Analysis (EDA) on a Recruitment Scam dataset sourced from Kaggle ([link](https://www.kaggle.com/datasets/amruthjithrajvr/recruitment-scam/data)). Initially, I examined general information about the dataset, including counts, duplicates, and unique values. Subsequently, I assessed the percentage of null values for each variable. I then proceeded to conduct a similar analysis, but this time, I stratified the dataset based on the explanatory variable, "fraudulent."
 
 Identifying a notable disparity in null percentages between the two classes proved to be insightful. For the "title" variable, I employed word clouds to visualize titles unique to each class. This method was particularly suitable for titles due to their concise nature.
 
